@@ -1,0 +1,9 @@
+These are the Git commands 
+
+**Git commands** 
+
+- git init
+- git remote add origin “url”
+- git add. “Folder name”
+- git commit -m “Added day1 articles”
+- git push origin main or git push origin master
